@@ -1,9 +1,8 @@
 ### Olá meu nome é Arthur Lara Panzera 👋
 
-- 🔭 Hoje trabalho com o sistema de Fluig nas linguagens de HTML e JavaScript
+- 🔭 Hoje trabalho com o sistema de Fluig utilizando JavaScript, bootstrap, CSS, HTML, jQuery
 - 🌱 Estudando Engenharia da Computação (PUC-MINAS)
 - 📫 Contate-me no email: arthurpanzera@outlook.com
-- 😄 Pronomes: ele/dele
 
 ##
 
